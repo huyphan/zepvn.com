@@ -1,15 +1,17 @@
 ---
-layout: page
+layout: page 
 title: About
-permalink: /about/
+
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+### me.iam
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I build things at work at break stuff at night. I was born in [one of the happiest countries in the world](https://www.gfmag.com/global-data/non-economic-data/happiest-countries) but later relocated to Singapore and am now living in Sydney where I work for Amazon InfoSec team. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I wrote [NAKL](http://huyphan.github.io/NAKL/index_en.html), a light-weight and open-source Vietnamese keyboard for Mac. I'm also spending time contributing to [open-source projects](https://github.com/huyphan?tab=repositories) and reasearching computer security.
+
+Disclaimer as usual: words are my own and do not represent the views or opinions of my company.
+
+### me.social
+
+Find me on [Twitter](https://twitter.com/pdah), [Linkedin](http://www.linkedin.com/pub/huy-phan-dac-anh/12/2b3/b43), [Github](http://github.com/huyphan)
